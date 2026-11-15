@@ -1,5 +1,5 @@
 {
-    "version": "3.70.0",
-    "released_at": "2026-11-15",
-    "summary": "新增選用 Web 套件升級模組（deploy.sh 預裝底座、Web 預設關閉可一鍵啟用）與修復刪除確認視窗層級遮蔽問題。"
+  "version": "3.71.0",
+  "released_at": "2026-11-16",
+  "summary": "新增 operator 三層權限控管（含強制 2FA 與角色切換）及 Releases 下載連結"
 }
