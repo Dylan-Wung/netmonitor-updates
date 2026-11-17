@@ -1,5 +1,4 @@
 {
-  "version": "3.71.0",
-  "released_at": "2026-11-16",
-  "summary": "新增 operator 三層權限控管（含強制 2FA 與角色切換）及 Releases 下載連結"
-}
+  " version\: .72.0\,
+ eleased_at\: �6-11-17\,
+ \summary\: \首頁監控總覽與主機改版、告警 Badge 雙端同步與捲動位置保留\n}
