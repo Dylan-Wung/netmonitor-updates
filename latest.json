@@ -1,5 +1,5 @@
 {
-  "version": "3.74.0",
-  "released_at": "2026-11-19",
-  "summary": "DNS 自訂監控條件、草稿試查與告警辨識"
+  "version": "3.74.1",
+  "released_at": "2026-11-20",
+  "summary": "更新 Python 安全依賴、統一雜湊鎖檔並提高最低 Python 版本至 3.12"
 }
